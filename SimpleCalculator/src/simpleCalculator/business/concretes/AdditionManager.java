@@ -11,7 +11,7 @@ public class AdditionManager implements CalculatorService {
 	}
 
 	@Override
-	public String message() {
+	public String testMessage() {
 		return "Toplam: ";
 	}
 }

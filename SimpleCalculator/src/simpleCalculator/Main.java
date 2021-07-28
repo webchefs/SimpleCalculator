@@ -17,7 +17,7 @@ public class Main {
 		
 		for (CalculatorService calculatorService : calculatorServices) {
 			System.out.println(
-					calculatorService.message() +
+					calculatorService.testMessage() +
 					calculatorService.calculate(operand));
 		}
 		

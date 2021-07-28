@@ -11,7 +11,7 @@ public class SubtractionManager implements CalculatorService{
 	}
 
 	@Override
-	public String message() {
+	public String testMessage() {
 		return "Fark: ";
 	}
 
